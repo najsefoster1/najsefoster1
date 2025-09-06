@@ -2,32 +2,27 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in web development, data science, and open-source contributions. I love learning new technologies and applying them to solve real-world problems.
+I'm a business analyst and process‑improvement specialist who enjoys turning data into insights and automating workflows. My background includes migrating teams to SharePoint Online, building Power BI dashboards and automating reporting with Power Automate and SQL. I love collaborating with cross‑functional teams to identify requirements, document SOPs, and build user‑friendly solutions that reduce manual effort and improve KPIs.
 
-- 🌱 I’m currently learning **Machine Learning** and **Cloud Computing**.
-- 👯 I’m looking to collaborate on **open-source projects**.
-- 💬 Ask me about **JavaScript, Python, and React**.
-- 📫 How to reach me: [najsefoster@outlook.com](mailto:najsefoster@outlook.com).
-- ⚡ Fun fact: I enjoy hiking and snowboarding in my free time.
+- 🤔 Always learning about data analytics, Power Platform and cloud services.
+- 🔍 Passionate about process improvement and continuous learning.
+- 📨 How to reach me: najsefoster@outlook.com
+- 🌲 Fun fact: I enjoy hiking and snowboarding in my free time.
 
 ## Skills
 
-- Programming Languages: JavaScript, Python, Java, C++
-- Web Development: HTML, CSS, React, Node.js, Express
-- Data Science: Pandas, NumPy, Matplotlib, Scikit-learn
-- Databases: MySQL, MongoDB
-- Tools & Platforms: Git, Docker, AWS, Heroku
+- **Tools:** Power BI, SharePoint, Power Automate, Power Apps, Excel (Power Query), SQL, Python (pandas)
+- **Data & Analytics:** Data visualization, KPI development, statistical analysis, machine learning basics.
+- **Process:** Requirements gathering, documentation, UAT, change management, automation.
 
-## GitHub Stats
+## GitHub Highlights
 
-![Najse's GitHub stats](https://github-readme-stats.vercel.app/api?username=najsefoster1&show_icons=true&theme=radical)
+Below are some featured projects that showcase my business‑analysis skills:
 
-## Top Languages
+- **sales‑performance‑dashboard** – An interactive Power BI dashboard that tracks sales metrics and highlights KPIs.
+- **business‑analytics‑projects** – A collection of analytical projects including cluster analysis, factor analysis and customer insight modelling.
+- **sharepoint‑automation‑scripts** – PowerShell scripts that automate common SharePoint tasks such as file uploads and metadata updates.
+- **machine‑learning** – Business‑focused machine learning projects exploring regression, classification and model explainability.
+- **data‑visualizations** – Data‑storytelling projects using Python and Tableau to communicate insights from real‑world datasets.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najsefoster1&layout=compact&theme=radical)
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/najsefoster)
-
-Thanks for visiting my profile, and feel free to reach out if you'd like to connect!
+Feel free to explore these repositories to see how I approach data‑driven problem solving.
